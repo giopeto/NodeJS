@@ -1,0 +1,17 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+*.iml
+**/target
+**/node_modules
+
+**/package-lock.json
+**bower_components
+/web/public/
+debug.log
